@@ -1,5 +1,6 @@
 class repeat_element {
     public static void main(String[] args) {
+        // Find 1st repeating element in the array
         int arr[] = { 10, 5, 3, 4, 3, 5, 6 };
         int n = arr.length;
         for (int i = 0; i < n; i++) {
